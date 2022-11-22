@@ -21,10 +21,10 @@
 <a href="https://twitter.com/umermehmood_"><img src="https://img.shields.io/badge/-@UmerMehmood__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
 
-## Let's Talk about your project :)
+### Let's Talk about your project :)
 
 <p align="center">
-<a href="https://www.upwork.com/freelancers/~011184505ed9059668"><img src="https://img.shields.io/badge/-Umer%20Mehmood-0FFF50?style=flat&logo=upwork&logoColor=white"/></a>
-<a href="https://www.fiverr.com/hamza_rajaz"><img src="https://img.shields.io/badge/-Umer%20Mehmood-0BDA51?style=flat&logo=Fiverr&logoColor=white"/></a>
+<a href="https://www.upwork.com/freelancers/~011184505ed9059668"><img src="https://img.shields.io/badge/-Umer%20Mehmood-6fda44?style=flat&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/hamza_rajaz"><img src="https://img.shields.io/badge/-Umer%20Mehmood-00b22d?style=flat&logo=Fiverr&logoColor=white"/></a>
 
 </p>
