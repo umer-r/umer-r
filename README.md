@@ -10,7 +10,7 @@
 
 ## Github Profile Statistics
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umer-r&show_icons=true&locale=en&theme=transparent" alt="umer-r" /></p>
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=umer-r&show_icons=true&locale=en&theme=transparent" alt="umer-r" /></p>
 
 ## 🤝🏻 &nbsp;Connect with Me
 
@@ -19,4 +19,12 @@
 <a href="mailto:russs3400@gmail.com"><img src="https://img.shields.io/badge/-Umer Mehmood-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/umermehmood_"><img src="https://img.shields.io/badge/-@umermehmood____-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/umermehmood_"><img src="https://img.shields.io/badge/-@UmerMehmood__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
+
+## Let's Talk about your project :)
+
+<p align="center">
+<a href="https://www.upwork.com/freelancers/~011184505ed9059668"><img src="https://img.shields.io/badge/-Umer%20Mehmood-0FFF50?style=flat&logo=upwork&logoColor=white"/></a>
+<a href="https://www.fiverr.com/hamza_rajaz"><img src="https://img.shields.io/badge/-Umer%20Mehmood-0BDA51?style=flat&logo=Fiverr&logoColor=white"/></a>
+
 </p>
