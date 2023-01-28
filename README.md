@@ -15,7 +15,7 @@
 ## Connect with Me 🤝🏻 &nbsp;
 
 <p align="center">
-<a href="https://www.linkedin.com/in/umer-r-437120214/"><img src="https://img.shields.io/badge/-Umer%R.-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/umer-r-437120214/"><img src="https://img.shields.io/badge/-Umer%R-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:russs3400@gmail.com"><img src="https://img.shields.io/badge/-Umer Mehmood-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/umermehmood__"><img src="https://img.shields.io/badge/-@umermehmood____-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://twitter.com/umermehmood_"><img src="https://img.shields.io/badge/-@UmerMehmood__-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
